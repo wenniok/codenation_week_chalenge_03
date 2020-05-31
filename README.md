@@ -13,7 +13,7 @@ Use a bibliteca Pytest e os seguntes dados para testar a função **get_temperat
     temperature = 62
     expected = 16
 
-A função a ser testada esta no arquivo **main.py** e a implementação do teste deve ser feita no arquivo **test_main.py**. O objetivo deste desafio é que você pratique a criação de testes unitários, por isso crie os testes pensando nos cenários possíveis de erro e acerto, de modo que seus testes possam cobrir o maior número de casos. Após a criação dos testes, use a funcionalidade de Code Review para validar sua implementação com a [comunidade](https://comunidade.codenation.dev).
+A função a ser testada esta no arquivo **main.py** e a implementação do teste deve ser feita no arquivo **test_main.py**. O objetivo deste desafio é que você pratique a criação de testes unitários, por isso crie os testes pensando nos cenários possíveis de erro e acerto, de modo que seus testes possam cobrir o maior número de casos.
 
 ## Tópicos
 
@@ -35,4 +35,4 @@ O recomendado é você utilizar um [ambiente virtual](https://pythonacademy.com.
     source venv/bin/activate 
     pip install -r requirements.txt
 
-Ao terminar o desafio, você pode sair do ambiente criado com o comando `deactivate`
+Ao terminar o desafio, você pode sair do ambiente criado com o comando **deactivate**
